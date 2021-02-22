@@ -20,6 +20,7 @@ Hipolito Yrigoyen 1189, 1 B - CABA. Lunes a viernes 9hs a 19hs
 - No compartir mate, vasos o tazas.
 
 Días tentativos por equipo en Irigoyen:
+
 Lunes --- Adm / Limpieza
 Martes --- DS
 Miércoles --- Libre (?)
