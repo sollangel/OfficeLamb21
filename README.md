@@ -22,7 +22,11 @@ Hipolito Yrigoyen 1189, 1 B - CABA. Lunes a viernes 9hs a 19hs
 Días tentativos por equipo en Irigoyen:
 
 Lunes --- Adm / Limpieza
+
 Martes --- DS
+
 Miércoles --- Libre (?)
+
 Jueves --- Devs
+
 Viernes --- Rollers
